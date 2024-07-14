@@ -1,6 +1,6 @@
 Challenge Literatura
 
-![Ejemplo de Imagen](./images/badge-literalura.png)
+![Imagen](imagen/badge-literalura.png)
 
 Este proyecto es parte del Challenge Literatura del programa de estudio Oracle Next Education (Backend) impartido por Alura Latam. El objetivo es desarrollar una aplicación para gestionar libros y autores utilizando Spring Boot y una base de datos PostgreSQL.
 
